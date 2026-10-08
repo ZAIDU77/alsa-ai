@@ -1,0 +1,1506 @@
+{
+  "name": ".",
+  "type": "directory",
+  "children": [
+    {
+      "name": ".env",
+      "type": "file"
+    },
+    {
+      "name": ".env.example",
+      "type": "file"
+    },
+    {
+      "name": ".gitignore",
+      "type": "file"
+    },
+    {
+      "name": "alsa-ai-file-tree.json",
+      "type": "file"
+    },
+    {
+      "name": "bun.lock",
+      "type": "file"
+    },
+    {
+      "name": "bun.lockb",
+      "type": "file"
+    },
+    {
+      "name": "components.json",
+      "type": "file"
+    },
+    {
+      "name": "dist-electron",
+      "type": "directory",
+      "children": [
+        {
+          "name": "main.js",
+          "type": "file"
+        },
+        {
+          "name": "preload.js",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "dist-electron-build",
+      "type": "directory",
+      "children": [
+        {
+          "name": "Alsa AI 1.0.0.exe",
+          "type": "file"
+        },
+        {
+          "name": "Alsa AI Setup 1.0.0.exe",
+          "type": "file"
+        },
+        {
+          "name": "Alsa AI Setup 1.0.0.exe.blockmap",
+          "type": "file"
+        },
+        {
+          "name": "builder-debug.yml",
+          "type": "file"
+        },
+        {
+          "name": "builder-effective-config.yaml",
+          "type": "file"
+        },
+        {
+          "name": "latest.yml",
+          "type": "file"
+        },
+        {
+          "name": "win-unpacked",
+          "type": "directory",
+          "children": [
+            {
+              "name": "Alsa AI.exe",
+              "type": "file"
+            },
+            {
+              "name": "chrome_100_percent.pak",
+              "type": "file"
+            },
+            {
+              "name": "chrome_200_percent.pak",
+              "type": "file"
+            },
+            {
+              "name": "d3dcompiler_47.dll",
+              "type": "file"
+            },
+            {
+              "name": "dxcompiler.dll",
+              "type": "file"
+            },
+            {
+              "name": "dxil.dll",
+              "type": "file"
+            },
+            {
+              "name": "ffmpeg.dll",
+              "type": "file"
+            },
+            {
+              "name": "icudtl.dat",
+              "type": "file"
+            },
+            {
+              "name": "LICENSE.electron.txt",
+              "type": "file"
+            },
+            {
+              "name": "LICENSES.chromium.html",
+              "type": "file"
+            },
+            {
+              "name": "locales",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "af.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "am.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "ar.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "bg.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "bn.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "ca.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "cs.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "da.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "de.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "el.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "en-GB.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "en-US.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "es-419.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "es.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "et.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "fa.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "fi.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "fil.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "fr.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "gu.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "he.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "hi.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "hr.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "hu.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "id.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "it.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "ja.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "kn.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "ko.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "lt.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "lv.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "ml.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "mr.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "ms.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "nb.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "nl.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "pl.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "pt-BR.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "pt-PT.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "ro.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "ru.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "sk.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "sl.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "sr.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "sv.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "sw.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "ta.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "te.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "th.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "tr.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "uk.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "ur.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "vi.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "zh-CN.pak",
+                  "type": "file"
+                },
+                {
+                  "name": "zh-TW.pak",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "resources",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "app-update.yml",
+                  "type": "file"
+                },
+                {
+                  "name": "app.asar",
+                  "type": "file"
+                },
+                {
+                  "name": "elevate.exe",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "resources.pak",
+              "type": "file"
+            },
+            {
+              "name": "snapshot_blob.bin",
+              "type": "file"
+            },
+            {
+              "name": "v8_context_snapshot.bin",
+              "type": "file"
+            },
+            {
+              "name": "vk_swiftshader.dll",
+              "type": "file"
+            },
+            {
+              "name": "vk_swiftshader_icd.json",
+              "type": "file"
+            },
+            {
+              "name": "vulkan-1.dll",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "electron",
+      "type": "directory",
+      "children": [
+        {
+          "name": "agentHandlers.js",
+          "type": "file"
+        },
+        {
+          "name": "main.ts",
+          "type": "file"
+        },
+        {
+          "name": "preload.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "electron-builder.json",
+      "type": "file"
+    },
+    {
+      "name": "eslint.config.js",
+      "type": "file"
+    },
+    {
+      "name": "file-creater.py",
+      "type": "file"
+    },
+    {
+      "name": "file-tree.md",
+      "type": "file"
+    },
+    {
+      "name": "index.html",
+      "type": "file"
+    },
+    {
+      "name": "package-lock.json",
+      "type": "file"
+    },
+    {
+      "name": "package.json",
+      "type": "file"
+    },
+    {
+      "name": "postcss.config.js",
+      "type": "file"
+    },
+    {
+      "name": "public",
+      "type": "directory",
+      "children": [
+        {
+          "name": "Alsa-Ai-Logo.png",
+          "type": "file"
+        },
+        {
+          "name": "bridges",
+          "type": "directory",
+          "children": [
+            {
+              "name": "alsa-ai-bridge.apk",
+              "type": "file"
+            },
+            {
+              "name": "elite-pc-bridge.py",
+              "type": "file"
+            },
+            {
+              "name": "freetier-pc-bridge.py",
+              "type": "file"
+            },
+            {
+              "name": "phone-bridge.py",
+              "type": "file"
+            },
+            {
+              "name": "pro-pc-bridge.py",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "desktop.ico",
+          "type": "file"
+        },
+        {
+          "name": "favicon.ico",
+          "type": "file"
+        },
+        {
+          "name": "largeImage.png",
+          "type": "file"
+        },
+        {
+          "name": "placeholder.svg",
+          "type": "file"
+        },
+        {
+          "name": "robots.txt",
+          "type": "file"
+        },
+        {
+          "name": "site.xml",
+          "type": "file"
+        },
+        {
+          "name": "sitemap.xml",
+          "type": "file"
+        },
+        {
+          "name": "sounds",
+          "type": "directory",
+          "children": [
+            {
+              "name": "alarm.wav",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "_redirects",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "README.md",
+      "type": "file"
+    },
+    {
+      "name": "SECURITY.md",
+      "type": "file"
+    },
+    {
+      "name": "src",
+      "type": "directory",
+      "children": [
+        {
+          "name": "App.css",
+          "type": "file"
+        },
+        {
+          "name": "App.tsx",
+          "type": "file"
+        },
+        {
+          "name": "assets",
+          "type": "directory",
+          "children": [
+            {
+              "name": "ex.txt",
+              "type": "file"
+            },
+            {
+              "name": "mira-avatar.jpg",
+              "type": "file"
+            },
+            {
+              "name": "mira-mouth-closed.webp",
+              "type": "file"
+            },
+            {
+              "name": "mira-mouth-half.webp",
+              "type": "file"
+            },
+            {
+              "name": "mira-mouth-open.webp",
+              "type": "file"
+            },
+            {
+              "name": "mira-silent.gif",
+              "type": "file"
+            },
+            {
+              "name": "mira-speaking.gif",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "components",
+          "type": "directory",
+          "children": [
+            {
+              "name": "AddressBookSettings.tsx",
+              "type": "file"
+            },
+            {
+              "name": "ApiKeyOnboarding.tsx",
+              "type": "file"
+            },
+            {
+              "name": "ChatComposer.tsx",
+              "type": "file"
+            },
+            {
+              "name": "ChatMessage.tsx",
+              "type": "file"
+            },
+            {
+              "name": "CircularSiriWave.tsx",
+              "type": "file"
+            },
+            {
+              "name": "CircularSiriWaveV2.tsx",
+              "type": "file"
+            },
+            {
+              "name": "CodingCanvas.tsx",
+              "type": "file"
+            },
+            {
+              "name": "CommandExamples.tsx",
+              "type": "file"
+            },
+            {
+              "name": "ConversationSidebar.tsx",
+              "type": "file"
+            },
+            {
+              "name": "DocumentGenerator.tsx",
+              "type": "file"
+            },
+            {
+              "name": "FaceAuth.tsx",
+              "type": "file"
+            },
+            {
+              "name": "FaceAuthGate.tsx",
+              "type": "file"
+            },
+            {
+              "name": "FileUpload.tsx",
+              "type": "file"
+            },
+            {
+              "name": "GameLauncher.tsx",
+              "type": "file"
+            },
+            {
+              "name": "MemoryManager.tsx",
+              "type": "file"
+            },
+            {
+              "name": "MessageBubble.tsx",
+              "type": "file"
+            },
+            {
+              "name": "MusicPlayer.tsx",
+              "type": "file"
+            },
+            {
+              "name": "NotificationMenu.tsx",
+              "type": "file"
+            },
+            {
+              "name": "ProtectedRoute.tsx",
+              "type": "file"
+            },
+            {
+              "name": "QuickActions.tsx",
+              "type": "file"
+            },
+            {
+              "name": "QuickLinks.tsx",
+              "type": "file"
+            },
+            {
+              "name": "ReminderNotification.tsx",
+              "type": "file"
+            },
+            {
+              "name": "RightPanel.tsx",
+              "type": "file"
+            },
+            {
+              "name": "ScheduledMessageChecker.tsx",
+              "type": "file"
+            },
+            {
+              "name": "Sidebar.tsx",
+              "type": "file"
+            },
+            {
+              "name": "SignupWizard.tsx",
+              "type": "file"
+            },
+            {
+              "name": "SiriWave.tsx",
+              "type": "file"
+            },
+            {
+              "name": "SystemSuggestions.tsx",
+              "type": "file"
+            },
+            {
+              "name": "TemplateSelector.tsx",
+              "type": "file"
+            },
+            {
+              "name": "TitleBar.tsx",
+              "type": "file"
+            },
+            {
+              "name": "TranscriptionFeedback.tsx",
+              "type": "file"
+            },
+            {
+              "name": "ui",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "accordion.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "alert-dialog.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "alert.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "aspect-ratio.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "avatar.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "badge.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "breadcrumb.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "button.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "calendar.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "card.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "carousel.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "chart.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "checkbox.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "collapsible.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "command.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "context-menu.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "dialog.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "drawer.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "dropdown-menu.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "form.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "hover-card.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "input-otp.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "input.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "label.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "menubar.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "navigation-menu.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "pagination.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "popover.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "progress.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "radio-group.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "resizable.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "scroll-area.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "select.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "separator.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "sheet.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "sidebar.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "skeleton.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "slider.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "sonner.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "switch.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "table.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "tabs.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "textarea.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "toast.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "toaster.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "toggle-group.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "toggle.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "tooltip.tsx",
+                  "type": "file"
+                },
+                {
+                  "name": "use-toast.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "VoiceOrb.tsx",
+              "type": "file"
+            },
+            {
+              "name": "WikipediaResult.tsx",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "hooks",
+          "type": "directory",
+          "children": [
+            {
+              "name": "use-mobile.tsx",
+              "type": "file"
+            },
+            {
+              "name": "use-toast.ts",
+              "type": "file"
+            },
+            {
+              "name": "useAuth.tsx",
+              "type": "file"
+            },
+            {
+              "name": "useSpeechRecognition.ts",
+              "type": "file"
+            },
+            {
+              "name": "useSubscription.ts",
+              "type": "file"
+            },
+            {
+              "name": "useTextToSpeech.ts",
+              "type": "file"
+            },
+            {
+              "name": "useTheme.ts",
+              "type": "file"
+            },
+            {
+              "name": "useWakeAnimation.ts",
+              "type": "file"
+            },
+            {
+              "name": "useWakeKeyboard.ts",
+              "type": "file"
+            },
+            {
+              "name": "useWakeVoice.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "index.css",
+          "type": "file"
+        },
+        {
+          "name": "integrations",
+          "type": "directory",
+          "children": [
+            {
+              "name": "supabase",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "client.ts",
+                  "type": "file"
+                },
+                {
+                  "name": "types.ts",
+                  "type": "file"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "lib",
+          "type": "directory",
+          "children": [
+            {
+              "name": "utils.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "main.tsx",
+          "type": "file"
+        },
+        {
+          "name": "pages",
+          "type": "directory",
+          "children": [
+            {
+              "name": "Admin.tsx",
+              "type": "file"
+            },
+            {
+              "name": "Analytics.tsx",
+              "type": "file"
+            },
+            {
+              "name": "Auth.tsx",
+              "type": "file"
+            },
+            {
+              "name": "AvatarChat.tsx",
+              "type": "file"
+            },
+            {
+              "name": "BridgeFeatures.tsx",
+              "type": "file"
+            },
+            {
+              "name": "BridgeSetup.tsx",
+              "type": "file"
+            },
+            {
+              "name": "Chat.tsx",
+              "type": "file"
+            },
+            {
+              "name": "Chats.tsx",
+              "type": "file"
+            },
+            {
+              "name": "Contact.tsx",
+              "type": "file"
+            },
+            {
+              "name": "FAQ.tsx",
+              "type": "file"
+            },
+            {
+              "name": "History.tsx",
+              "type": "file"
+            },
+            {
+              "name": "Landing.tsx",
+              "type": "file"
+            },
+            {
+              "name": "NotFound.tsx",
+              "type": "file"
+            },
+            {
+              "name": "Pricing.tsx",
+              "type": "file"
+            },
+            {
+              "name": "Privacy.tsx",
+              "type": "file"
+            },
+            {
+              "name": "Profile.tsx",
+              "type": "file"
+            },
+            {
+              "name": "Ratings.tsx",
+              "type": "file"
+            },
+            {
+              "name": "Settings.tsx",
+              "type": "file"
+            },
+            {
+              "name": "SharedConversation.tsx",
+              "type": "file"
+            },
+            {
+              "name": "Terms.tsx",
+              "type": "file"
+            },
+            {
+              "name": "UpdateHistory.tsx",
+              "type": "file"
+            },
+            {
+              "name": "Vibecoding.tsx",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "styles",
+          "type": "directory",
+          "children": [
+            {
+              "name": "wake.css",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "types",
+          "type": "directory",
+          "children": [
+            {
+              "name": "electron.d.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "utils",
+          "type": "directory",
+          "children": [
+            {
+              "name": "adminConfig.ts",
+              "type": "file"
+            },
+            {
+              "name": "contactsStore.ts",
+              "type": "file"
+            },
+            {
+              "name": "conversationMemory.ts",
+              "type": "file"
+            },
+            {
+              "name": "createCommand.ts",
+              "type": "file"
+            },
+            {
+              "name": "cursor_controller.cjs",
+              "type": "file"
+            },
+            {
+              "name": "customCommands.ts",
+              "type": "file"
+            },
+            {
+              "name": "desktop.ts",
+              "type": "file"
+            },
+            {
+              "name": "faceAuth.ts",
+              "type": "file"
+            },
+            {
+              "name": "file_controller.cjs",
+              "type": "file"
+            },
+            {
+              "name": "localMusic.ts",
+              "type": "file"
+            },
+            {
+              "name": "memoryManager.ts",
+              "type": "file"
+            },
+            {
+              "name": "naturalLanguageParser.ts",
+              "type": "file"
+            },
+            {
+              "name": "pcBridge.ts",
+              "type": "file"
+            },
+            {
+              "name": "phoneBridge.ts",
+              "type": "file"
+            },
+            {
+              "name": "reminderManager.ts",
+              "type": "file"
+            },
+            {
+              "name": "sanitize.ts",
+              "type": "file"
+            },
+            {
+              "name": "scheduledMessageManager.ts",
+              "type": "file"
+            },
+            {
+              "name": "screenRecording.ts",
+              "type": "file"
+            },
+            {
+              "name": "teamAccounts.ts",
+              "type": "file"
+            },
+            {
+              "name": "terminal.cjs",
+              "type": "file"
+            },
+            {
+              "name": "test-client.ts",
+              "type": "file"
+            },
+            {
+              "name": "vision_overlay.cjs",
+              "type": "file"
+            },
+            {
+              "name": "window_controller.cjs",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "vite-env.d.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "name": "supabase",
+      "type": "directory",
+      "children": [
+        {
+          "name": ".gitignore",
+          "type": "file"
+        },
+        {
+          "name": ".temp",
+          "type": "directory",
+          "children": [
+            {
+              "name": "cli-latest",
+              "type": "file"
+            },
+            {
+              "name": "gotrue-version",
+              "type": "file"
+            },
+            {
+              "name": "linked-project.json",
+              "type": "file"
+            },
+            {
+              "name": "pooler-url",
+              "type": "file"
+            },
+            {
+              "name": "postgres-version",
+              "type": "file"
+            },
+            {
+              "name": "project-ref",
+              "type": "file"
+            },
+            {
+              "name": "rest-version",
+              "type": "file"
+            },
+            {
+              "name": "storage-migration",
+              "type": "file"
+            },
+            {
+              "name": "storage-version",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "config.toml",
+          "type": "file"
+        },
+        {
+          "name": "functions",
+          "type": "directory",
+          "children": [
+            {
+              "name": "admin-get-contacts",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "admin-mark-read",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "admin-send-notification",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "admin-update-subscription",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "admin-verify",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "analyze-conversation",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "avatar-chat",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "chat",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "create-razorpay-order",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "image-chat",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "mira-tts",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "mobile-chat",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "speech-to-text",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "transcribe",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "verify-bridge-token",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "verify-razorpay-payment",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "vibe-coder",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "vibe-github-push",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "name": "_shared",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "cors.ts",
+                  "type": "file"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "migrations",
+          "type": "directory",
+          "children": [
+            {
+              "name": "20260819074631_01_import_users.sql",
+              "type": "file"
+            },
+            {
+              "name": "20260819074632_02_import_identities.sql",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tailwind.config.ts",
+      "type": "file"
+    },
+    {
+      "name": "tsconfig.app.json",
+      "type": "file"
+    },
+    {
+      "name": "tsconfig.json",
+      "type": "file"
+    },
+    {
+      "name": "tsconfig.node.json",
+      "type": "file"
+    },
+    {
+      "name": "vercel.json",
+      "type": "file"
+    },
+    {
+      "name": "vite.config.ts",
+      "type": "file"
+    }
+  ]
+}
